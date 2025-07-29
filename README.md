@@ -64,6 +64,15 @@ Best-performing Months (year-wise)
 ├── README.md                    # Project documentation
 
 
+## 🚀 How to Use
+
+1. Open the SQL script in MySQL or any SQL tool.  
+2. Run the table creation and cleaning queries.  
+3. Load your retail dataset into the `retail_sales` table.  
+4. Execute the analysis queries to generate KPIs and insights.
+
+
+
 
 🔍 Sample Insights
 ---
